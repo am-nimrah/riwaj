@@ -1,0 +1,215 @@
+{
+  "MaterialMaster": [
+    {
+      "Gender": "Male",
+      "Brand": "BrandA",
+      "Name": "Shirt1",
+      "Description": "Cotton Shirt",
+      "Width": "42",
+      "PiecesOfSuit": 1,
+      "WidthUnit": "cm",
+      "ShirtFabricQualityName": "High",
+      "TrouserFabricQualityName": "Medium",
+      "DopattaFabricQualityName": "Low",
+      "ShirtFabricConstruction": "Plain",
+      "TrouserFabricConstruction": "Twill",
+      "DopattaFabricConstruction": "Chiffon",
+      "ShirtFabricBase": "Cotton",
+      "TrouserFabricBase": "Polyester",
+      "DopattaFabricBase": "Silk",
+      "ShirtStyle": "Casual",
+      "TrouserStyle": "Formal",
+      "DopattaStyle": "Traditional",
+      "ShirtPrint": "Solid",
+      "TrouserPrint": "Plain",
+      "DopattaPrint": "Floral",
+      "ShirtEmbroideryStyle": "None",
+      "TrouserEmbroideryStyle": "Simple",
+      "DopattaEmbroideryStyle": "Heavy"
+    }
+  ],
+  "Inventory": [
+    {
+      "MaterialMaster": "Shirt1",
+      "Gender": "Male",
+      "Brand": "BrandA",
+      "Name": "Shirt1",
+      "Description": "Cotton Shirt",
+      "Width": "42",
+      "WidthUnit": "cm",
+      "FabricConstruction": "Plain",
+      "StockQty": 100,
+      "BatchNo": "1234",
+      "Design": "Solid",
+      "Color": "Blue"
+    }
+  ],
+  "Vendor": [
+    {
+      "VendorNumber": "V001",
+      "VendorName": "Vendor A",
+      "VendorContact": "9876543210",
+      "VendorAddress": "123 Vendor St, City, Country",
+      "ScopeOfSupply": "Shirts and Trousers"
+    }
+  ],
+  "PurchaseRequisition": [
+    {
+      "PRNo": "PR1001",
+      "PRDate": "2024-11-01",
+      "PRItemNo": "1",
+      "MMNo": "M001",
+      "Description": "Cotton Shirt",
+      "PurchaseReqnQty": 50,
+      "Unit": "Pieces",
+      "PRRequirementDate": "2024-11-15"
+    }
+  ],
+  "PurchaseOrder": [
+    {
+      "PONo": "PO1001",
+      "PODate": "2024-11-05",
+      "POItemNo": "1",
+      "MMNo": "M001",
+      "Description": "Cotton Shirt",
+      "POQty": 50,
+      "Unit": "Pieces",
+      "POUnitPrice": 20.0,
+      "ItemTotalPrice": 1000.0,
+      "DeliveryDate": "2024-11-20"
+    }
+  ],
+  "GoodsReceiveReport": [
+    {
+      "VendorName": "Vendor A",
+      "VendorNo": "V001",
+      "GRNo": "GR1001",
+      "DeliveryOrderNo": "DO1001",
+      "PONo": "PO1001",
+      "POItemNo": "1",
+      "POUnitPrice": 20.0,
+      "DONo": "DO1001",
+      "MMNo": "M001",
+      "Description": "Cotton Shirt",
+      "GRQty": 50,
+      "Unit": "Pieces",
+      "BatchNo": "1234",
+      "Color": "Blue",
+      "Design": "Solid"
+    }
+  ],
+  "SalesBills": [
+    {
+      "BillNumber": "SB1001",
+      "BillDate": "2024-11-10",
+      "BillRevisionNumber": "1",
+      "CustomerRegistrationNo": "CR1001",
+      "CustomerName": "John Doe",
+      "CustomerVillage": "Village A",
+      "CustomerCity": "City A",
+      "CustomerCountry": "Country A",
+      "CustomerAddress": "123 Customer St",
+      "CustomerContactNumber1": "1234567890",
+      "CustomerContactNumber2": "2345678901",
+      "CustomerContactNumber3": "3456789012",
+      "ItemNumber": "1",
+      "MMNo": "M001",
+      "BatchNo": "1234",
+      "Description": "Cotton Shirt",
+      "Unit": "Pieces",
+      "SoldQty": 1,
+      "OfferPrice": 25.0,
+      "SoldUnitPrice": 20.0,
+      "TotalPrice": 20.0
+    }
+  ],
+  "ProductUnitCostCalculation": [
+    {
+      "MMNo": "M001",
+      "Description": "Cotton Shirt",
+      "PONo": "PO1001",
+      "POItemNo": "1",
+      "POQty": 50,
+      "Unit": "Pieces",
+      "GRQty": 50,
+      "BatchNo": "1234",
+      "POUnitPrice": 20.0,
+      "TransportationCost": 50.0,
+      "TransportationMode": "Air",
+      "TravelExpense": 10.0,
+      "OddCuttingExpense": 5.0,
+      "PriceHike": 2.0,
+      "OtherExpense": 3.0,
+      "TotalProductUnitCost": 90.0,
+      "ProfitPercentageMinimum": 10,
+      "ProfitPercentageMaximum": 15,
+      "MinimumSalePrice": 100.0,
+      "MaximumSalePrice": 110.0,
+      "OfferPricePercentage": 5,
+      "OfferPrice": 95.0
+    }
+  ],
+  "EmployeeRecords": [
+    {
+      "EmployeeID": "E001",
+      "EmployeeName": "Alice Smith",
+      "Salary": 5000.0,
+      "Currency": "USD",
+      "Date": "2024-11-01",
+      "DateOfJoining": "2023-05-15",
+      "JobTitle": "Sales Manager",
+      "Agreement": "Permanent"
+    }
+  ],
+  "UtilityBills": [
+    {
+      "Utility": "Electricity",
+      "BillMonth": "2024-11",
+      "BillDate": "2024-11-10",
+      "BillAmount": 150.0,
+      "UnitsConsumed": 300,
+      "Taxes": 10.0,
+      "MeterRegisteredWithTheName": "John Doe"
+    }
+  ],
+  "CustomerRegistration": [
+    {
+      "CustomerRegistrationNo": "CR1001",
+      "CustomerName": "John",
+      "CustomerFamilyName": "Doe",
+      "CustomerVillage": "Village A",
+      "CustomerCity": "City A",
+      "CustomerProvince": "Province A",
+      "CustomerCountry": "Country A",
+      "CustomerAddress": "123 Customer St",
+      "CustomerContactNumber1": "1234567890",
+      "CustomerContactNumber2": "2345678901",
+      "CustomerContactNumber3": "3456789012",
+      "CustomerWhatsAppNo": "9876543210"
+    }
+  ],
+  "InvestmentDetails": [
+    {
+      "InvestorRegistrationNumber": "ID1001",
+      "InvestorName": "David Johnson",
+      "InvestorsFatherName": "Robert Johnson",
+      "InvestorIDNumber": "A123456789",
+      "InvestorsSourceOfIncome": "Business",
+      "InvestmentAmount": 50000.0,
+      "InvestmentAmountCurrency": "USD",
+      "InvestmentTransferredThroughAccount": "123456789012",
+      "InvestmentTransferAttachment": "file123.pdf",
+      "OtherReferenceToInvestmentTransfer": "Reference A",
+      "AttachmentToOtherReference": "file456.pdf",
+      "InvestmentMaturityDate": "2027-11-01",
+      "Remarks": "Investment for business expansion"
+    }
+  ],
+  "InvestorShare": [
+    {
+      "InvestorRegistrationNumber": "ID1001",
+      "InvestorName": "David Johnson",
+      "InvestorSharePercentageInProfit": 20
+    }
+  ]
+}
