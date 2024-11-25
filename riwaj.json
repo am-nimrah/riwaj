@@ -1,101 +1,12 @@
-{
-  "screens": [
-    {
-      "name": "Material Master Management",
-      "purpose": "To manage and maintain detailed records for all materials, including their properties, fabric types, styles, and prints.",
-      "features": [
-        {
-          "name": "Material Search",
-          "description": "Search and filter materials by name, description, fabric type, or other attributes."
-        },
-        {
-          "name": "Add/Edit Material",
-          "description": "Form to add or edit material details like gender, brand, fabric quality, styles, and construction types."
-        },
-        {
-          "name": "Material List",
-          "description": "Display all materials with essential details (name, description, width, fabric types) in a tabular format, with options for viewing, editing, or deleting."
-        }
-      ],
-      "additionalOptions": [
-        {
-          "name": "Bulk Import",
-          "description": "Option to import materials via a CSV or Excel file."
-        }
-      ],
-      "actionButtons": [
-        "Save",
-        "Delete",
-        "Edit Material"
-      ]
-    },
-    {
-      "name": "Purchase Order Management",
-      "purpose": "To create, manage, and track purchase orders.",
-      "features": [
-        {
-          "name": "PO Search and Filter",
-          "description": "Filter and search POs by PO number, vendor, material, and delivery status."
-        },
-        {
-          "name": "Create New PO",
-          "description": "Form for entering purchase order details, including PO number, date, item details, unit price, and delivery date."
-        },
-        {
-          "name": "PO List",
-          "description": "Display list of all purchase orders with their status (open, completed, partially delivered), including the vendor and delivery dates."
-        }
-      ],
-      "actionButtons": [
-        "Create PO",
-        "Edit PO",
-        "View PO Details",
-        "Mark as Delivered"
-      ],
-      "additionalOptions": [
-        {
-          "name": "Track Delivery",
-          "description": "Link PO to goods receipts for tracking delivery status."
-        },
-        {
-          "name": "Notifications",
-          "description": "Alerts for pending or overdue orders."
-        }
-      ]
-    },
-    {
-      "name": "Inventory Management",
-      "purpose": "To track and manage inventory, including stock quantities and batch numbers.",
-      "features": [
-        {
-          "name": "Inventory Overview",
-          "description": "Display current stock levels with material descriptions, batch numbers, colors, and quantities."
-        },
-        {
-          "name": "Stock Adjustment",
-          "description": "Option to manually adjust stock quantities (e.g., after receiving goods or correcting errors)."
-        },
-        {
-          "name": "Stock Search and Filter",
-          "description": "Search and filter by material type, batch number, color, and stock level."
-        }
-      ],
-      "actionButtons": [
-        "Add Stock",
-        "Edit Stock",
-        "Adjust Stock",
-        "Generate Report"
-      ],
-      "additionalOptions": [
-        {
-          "name": "Low Stock Alerts",
-          "description": "Set up alerts for materials running low on stock."
-        },
-        {
-          "name": "Stock Movement",
-          "description": "Track stock movement history for each item."
-        }
-      ]
-    }
-  ]
-}
+[
+  { "name": "Cotton T-Shirt", "category": "Clothing", "price": "$20", "stock": "150", "supplier": "FashionHub" },
+  { "name": "Silk Scarf", "category": "Clothing", "price": "$45", "stock": "50", "supplier": "UrbanThreads" },
+  { "name": "Wool Sweater", "category": "Clothing", "price": "$60", "stock": "80", "supplier": "CozyWear" },
+  { "name": "Denim Jeans", "category": "Clothing", "price": "$40", "stock": "120", "supplier": "DenimWorks" },
+  { "name": "Linen Shirt", "category": "Clothing", "price": "$35", "stock": "100", "supplier": "StyleLine" },
+  { "name": "Polyester Jacket", "category": "Clothing", "price": "$70", "stock": "60", "supplier": "UrbanThreads" },
+  { "name": "Leather Jacket", "category": "Clothing", "price": "$120", "stock": "30", "supplier": "LeatherLux" },
+  { "name": "Rayon Blouse", "category": "Clothing", "price": "$25", "stock": "140", "supplier": "FashionHub" },
+  { "name": "Velvet Dress", "category": "Clothing", "price": "$90", "stock": "25", "supplier": "GlamourWear" },
+  { "name": "Chiffon Top", "category": "Clothing", "price": "$30", "stock": "100", "supplier": "StyleLine" }
+]
