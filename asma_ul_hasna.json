@@ -1,0 +1,910 @@
+{
+	"records": {
+		"record": [
+			{
+				"SNo": "1",
+				"English": "Allah",
+				"Arabic": "الله",
+				"Value": "66",
+				"Type": "Jalali",
+				"Meaning": "Allah"
+			},
+			{
+				"SNo": "2",
+				"English": "Ar Rahman",
+				"Arabic": "رحمن",
+				"Value": "298",
+				"Type": "Jamali",
+				"Meaning": "The Most Gracious"
+			},
+			{
+				"SNo": "3",
+				"English": "Ar Raheem",
+				"Arabic": "رحيم",
+				"Value": "258",
+				"Type": "Jamali",
+				"Meaning": "The Most Merciful"
+			},
+			{
+				"SNo": "4",
+				"English": "Al Malik",
+				"Arabic": "ملك",
+				"Value": "90",
+				"Type": "Mix",
+				"Meaning": "The King"
+			},
+			{
+				"SNo": "5",
+				"English": "Al Quddus",
+				"Arabic": "قدوس",
+				"Value": "170",
+				"Type": "Mix",
+				"Meaning": "The Most Holy"
+			},
+			{
+				"SNo": "6",
+				"English": "As Salam",
+				"Arabic": "سلام",
+				"Value": "131",
+				"Type": "Jamali",
+				"Meaning": "The Ultimate Provider of Peace"
+			},
+			{
+				"SNo": "7",
+				"English": "Al Mu'min",
+				"Arabic": "مؤمن",
+				"Value": "136",
+				"Type": "Jamali",
+				"Meaning": "The Guardian of Faith"
+			},
+			{
+				"SNo": "8",
+				"English": "Al Muhaymin",
+				"Arabic": "مهيمن",
+				"Value": "145",
+				"Type": "Jamali",
+				"Meaning": "The Guardian, the Preserver"
+			},
+			{
+				"SNo": "9",
+				"English": "Al Aziz",
+				"Arabic": "عزيز",
+				"Value": "94",
+				"Type": "Jalali",
+				"Meaning": "The Almighty, the Self Sufficient"
+			},
+			{
+				"SNo": "10",
+				"English": "Al Jabbaar",
+				"Arabic": "جبار",
+				"Value": "206",
+				"Type": "Jalali",
+				"Meaning": "The Compeller"
+			},
+			{
+				"SNo": "11",
+				"English": "Al Mutakabbir",
+				"Arabic": "ْمُتَكَبِّرُ",
+				"Value": "662",
+				"Type": "Jalali",
+				"Meaning": "The Dominant one"
+			},
+			{
+				"SNo": "12",
+				"English": "Al Khaaliq",
+				"Arabic": "خالق",
+				"Value": "731",
+				"Type": "Mix",
+				"Meaning": "The Creator"
+			},
+			{
+				"SNo": "13",
+				"English": "Al Baari",
+				"Arabic": "بارئ",
+				"Value": "213",
+				"Type": "Mix",
+				"Meaning": "The Maker"
+			},
+			{
+				"SNo": "14",
+				"English": "Al Musawwir",
+				"Arabic": "مصور",
+				"Value": "336",
+				"Type": "Mix",
+				"Meaning": "The Fashioner of Forms"
+			},
+			{
+				"SNo": "15",
+				"English": "Al Ghaffaar",
+				"Arabic": "غفار",
+				"Value": "1281",
+				"Type": "Jamali",
+				"Meaning": "The Ever-Forgiving"
+			},
+			{
+				"SNo": "16",
+				"English": "Al Qahhaar",
+				"Arabic": "قهار",
+				"Value": "306",
+				"Type": "Jalali",
+				"Meaning": "The All Subduer"
+			},
+			{
+				"SNo": "17",
+				"English": "Al Wahhaab",
+				"Arabic": "وهاب",
+				"Value": "14",
+				"Type": "Mix",
+				"Meaning": "The Bestower"
+			},
+			{
+				"SNo": "18",
+				"English": "Ar Razzaaq",
+				"Arabic": "رزاق",
+				"Value": "308",
+				"Type": "Jamali",
+				"Meaning": "The Ever-Providing, The Sustainer"
+			},
+			{
+				"SNo": "19",
+				"English": "Al Fattaah",
+				"Arabic": "فتاح",
+				"Value": "489",
+				"Type": "Mix",
+				"Meaning": "The Ultimate Judge, The Opener of All Portals, the Victory Giver"
+			},
+			{
+				"SNo": "20",
+				"English": "Al Alim",
+				"Arabic": "عليم",
+				"Value": "150",
+				"Type": "Mix",
+				"Meaning": "The All-Knowing, the Omniscient"
+			},
+			{
+				"SNo": "21",
+				"English": "Al Qaabidh",
+				"Arabic": "قابض",
+				"Value": "903",
+				"Type": "Jalali",
+				"Meaning": "The Restrainer, the Straightener"
+			},
+			{
+				"SNo": "22",
+				"English": "Al Baasit",
+				"Arabic": "باسط",
+				"Value": "72",
+				"Type": "Jamali",
+				"Meaning": "The Expander, the Munificent"
+			},
+			{
+				"SNo": "23",
+				"English": "Al Khaafidh",
+				"Arabic": "خافض",
+				"Value": "1481",
+				"Type": "Mix",
+				"Meaning": "The Abaser, The Demeanor"
+			},
+			{
+				"SNo": "24",
+				"English": "Ar Raafi'",
+				"Arabic": "رافع",
+				"Value": "351",
+				"Type": "Mix",
+				"Meaning": "The Exalter"
+			},
+			{
+				"SNo": "25",
+				"English": "Al Mu'izz",
+				"Arabic": "معز",
+				"Value": "117",
+				"Type": "Jamali",
+				"Meaning": "The Giver of Honour"
+			},
+			{
+				"SNo": "26",
+				"English": "Al Muzil",
+				"Arabic": "مذل",
+				"Value": "770",
+				"Type": "Jalali",
+				"Meaning": "The Giver of Dishonor"
+			},
+			{
+				"SNo": "27",
+				"English": "As Sami'",
+				"Arabic": "سميع",
+				"Value": "180",
+				"Type": "Mix",
+				"Meaning": "The All-Hearing"
+			},
+			{
+				"SNo": "28",
+				"English": "Al Basir",
+				"Arabic": "بصير",
+				"Value": "302",
+				"Type": "Mix",
+				"Meaning": "The All-Seeing"
+			},
+			{
+				"SNo": "29",
+				"English": "Al Hakam",
+				"Arabic": "حكم",
+				"Value": "68",
+				"Type": "Mix",
+				"Meaning": "The Judge, the Ultimate Arbiter"
+			},
+			{
+				"SNo": "30",
+				"English": "Al 'Adl",
+				"Arabic": "عدل",
+				"Value": "104",
+				"Type": "Mix",
+				"Meaning": "The Utterly Just"
+			},
+			{
+				"SNo": "31",
+				"English": "Al Latif",
+				"Arabic": "لطيف",
+				"Value": "129",
+				"Type": "Jamali",
+				"Meaning": "The Kind"
+			},
+			{
+				"SNo": "32",
+				"English": "Al Khabir",
+				"Arabic": "خبير",
+				"Value": "812",
+				"Type": "Mix",
+				"Meaning": "The All-Aware"
+			},
+			{
+				"SNo": "33",
+				"English": "Al Halim",
+				"Arabic": "حليم",
+				"Value": "88",
+				"Type": "Jamali",
+				"Meaning": "The Forbearer, The Indulgent"
+			},
+			{
+				"SNo": "34",
+				"English": "Al-‘Adheem",
+				"Arabic": "عظيم",
+				"Value": "1020",
+				"Type": "Mix",
+				"Meaning": "The Magnificent, the Infinite"
+			},
+			{
+				"SNo": "35",
+				"English": "Al Ghafur",
+				"Arabic": "غفور",
+				"Value": "1286",
+				"Type": "Jamali",
+				"Meaning": "The All-Forgiving"
+			},
+			{
+				"SNo": "36",
+				"English": "Ash Shakur",
+				"Arabic": "شكور",
+				"Value": "526",
+				"Type": "Jamali",
+				"Meaning": "The Grateful"
+			},
+			{
+				"SNo": "37",
+				"English": "Al Ali",
+				"Arabic": "علي",
+				"Value": "110",
+				"Type": "Jalali",
+				"Meaning": "The Sublimely Exalted"
+			},
+			{
+				"SNo": "38",
+				"English": "Al Kabir",
+				"Arabic": "كبير",
+				"Value": "232",
+				"Type": "Mix",
+				"Meaning": "The Great"
+			},
+			{
+				"SNo": "39",
+				"English": "Al Hafidh",
+				"Arabic": "حفيظ",
+				"Value": "998",
+				"Type": "Jamali",
+				"Meaning": "The Preserver, The Protector"
+			},
+			{
+				"SNo": "40",
+				"English": "Al Muqit",
+				"Arabic": "مقيت",
+				"Value": "550",
+				"Type": "Mix",
+				"Meaning": "The Nourisher"
+			},
+			{
+				"SNo": "41",
+				"English": "Al Hasib",
+				"Arabic": "حسيب",
+				"Value": "80",
+				"Type": "Mix",
+				"Meaning": "The Reckoner"
+			},
+			{
+				"SNo": "42",
+				"English": "Al Jalil",
+				"Arabic": "جليل",
+				"Value": "73",
+				"Type": "Jalali",
+				"Meaning": "The Majestic"
+			},
+			{
+				"SNo": "43",
+				"English": "Al Karim",
+				"Arabic": "كريم",
+				"Value": "270",
+				"Type": "Jamali",
+				"Meaning": "The Bountiful, the Generous"
+			},
+			{
+				"SNo": "44",
+				"English": "Ar Raqib",
+				"Arabic": "رقيب",
+				"Value": "312",
+				"Type": "Mix",
+				"Meaning": "The Watchful"
+			},
+			{
+				"SNo": "45",
+				"English": "Al Mujib",
+				"Arabic": "مجيب",
+				"Value": "55",
+				"Type": "Mix",
+				"Meaning": "The Responsive, the Answerer"
+			},
+			{
+				"SNo": "46",
+				"English": "Al Wasi'",
+				"Arabic": "واسع",
+				"Value": "137",
+				"Type": "Jamali",
+				"Meaning": "The Vast, the All Encompassing"
+			},
+			{
+				"SNo": "47",
+				"English": "Al Hakim",
+				"Arabic": "حكيم",
+				"Value": "78",
+				"Type": "Jamali",
+				"Meaning": "The Wise"
+			},
+			{
+				"SNo": "48",
+				"English": "Al Wadud",
+				"Arabic": "ودود",
+				"Value": "20",
+				"Type": "Jamali",
+				"Meaning": "The Loving, the Kind One"
+			},
+			{
+				"SNo": "49",
+				"English": "Al Majid",
+				"Arabic": "مجيد",
+				"Value": "57",
+				"Type": "Mix",
+				"Meaning": "The All Glorious"
+			},
+			{
+				"SNo": "50",
+				"English": "Al Ba'ith",
+				"Arabic": "باعث",
+				"Value": "573",
+				"Type": "Mix",
+				"Meaning": "The Raiser of the Dead"
+			},
+			{
+				"SNo": "51",
+				"English": "Ash Shaheed",
+				"Arabic": "شهيد",
+				"Value": "319",
+				"Type": "Mix",
+				"Meaning": "The Witness"
+			},
+			{
+				"SNo": "52",
+				"English": "Al Haqq",
+				"Arabic": "حق",
+				"Value": "108",
+				"Type": "Mix",
+				"Meaning": "The Truth, the Real"
+			},
+			{
+				"SNo": "53",
+				"English": "Al Wakil",
+				"Arabic": "وكيل",
+				"Value": "66",
+				"Type": "Jamali",
+				"Meaning": "The Trustee, the Dependable"
+			},
+			{
+				"SNo": "54",
+				"English": "Al Qawiyy",
+				"Arabic": "قوي",
+				"Value": "116",
+				"Type": "Jalali",
+				"Meaning": "The Strong"
+			},
+			{
+				"SNo": "55",
+				"English": "Al Mateen",
+				"Arabic": "متين",
+				"Value": "500",
+				"Type": "Jalali",
+				"Meaning": "The Firm, the Steadfast"
+			},
+			{
+				"SNo": "56",
+				"English": "Al Wali",
+				"Arabic": "ولي",
+				"Value": "46",
+				"Type": "Jamali",
+				"Meaning": "The Protecting Friend, Patron, and Supporter"
+			},
+			{
+				"SNo": "57",
+				"English": "Al Hamidu",
+				"Arabic": "حميد",
+				"Value": "62",
+				"Type": "Mix",
+				"Meaning": "The All Praise Worthy"
+			},
+			{
+				"SNo": "58",
+				"English": "Al Muhsi",
+				"Arabic": "محصي",
+				"Value": "148",
+				"Type": "Mix",
+				"Meaning": "The Accounter, The Numberer of All"
+			},
+			{
+				"SNo": "59",
+				"English": "Al Mubdi",
+				"Arabic": "مبدئ",
+				"Value": "56",
+				"Type": "Jalali",
+				"Meaning": "The Producer, Originator, and Initiator of all"
+			},
+			{
+				"SNo": "60",
+				"English": "Al Mu'id",
+				"Arabic": "معيد",
+				"Value": "124",
+				"Type": "Jalali",
+				"Meaning": "The Reinstater Who Brings Back All"
+			},
+			{
+				"SNo": "61",
+				"English": "Al Muhyi",
+				"Arabic": "محيي",
+				"Value": "68",
+				"Type": "Jamali",
+				"Meaning": "The Giver of Life"
+			},
+			{
+				"SNo": "62",
+				"English": "Al Mumit",
+				"Arabic": "مميت",
+				"Value": "490",
+				"Type": "Mix",
+				"Meaning": "The Bringer of Death, the Destroyer"
+			},
+			{
+				"SNo": "63",
+				"English": "Al Hayy",
+				"Arabic": "حي",
+				"Value": "18",
+				"Type": "Jamali",
+				"Meaning": "The Ever Living"
+			},
+			{
+				"SNo": "64",
+				"English": "Al Qayyum",
+				"Arabic": "قيوم",
+				"Value": "156",
+				"Type": "Jamali",
+				"Meaning": "The Self Subsisting Sustainer of All"
+			},
+			{
+				"SNo": "65",
+				"English": "Al Waajid",
+				"Arabic": "واجد",
+				"Value": "14",
+				"Type": "Jamali",
+				"Meaning": "The Perceiver, the Finder, the Unfailing"
+			},
+			{
+				"SNo": "66",
+				"English": "Al Maajid",
+				"Arabic": "ماجد",
+				"Value": "48",
+				"Type": "Jamali",
+				"Meaning": "The Illustrious, the Magnificent"
+			},
+			{
+				"SNo": "67",
+				"English": "Al Waahid",
+				"Arabic": "واحد",
+				"Value": "19",
+				"Type": "Mix",
+				"Meaning": "The One, the All Inclusive, the Indivisible"
+			},
+			{
+				"SNo": "68",
+				"English": "Al Ahad",
+				"Arabic": "احد",
+				"Value": "13",
+				"Type": "Jamali",
+				"Meaning": "The One, the Indivisible"
+			},
+			{
+				"SNo": "69",
+				"English": "As Samad",
+				"Arabic": "صمد",
+				"Value": "134",
+				"Type": "Jamali",
+				"Meaning": "The Everlasting,The Eternal Refuge"
+			},
+			{
+				"SNo": "70",
+				"English": "Al Qaadir",
+				"Arabic": "قادر",
+				"Value": "305",
+				"Type": "Jalali",
+				"Meaning": "The All-Capable, The Most Able, The Most Powerful"
+			},
+			{
+				"SNo": "71",
+				"English": "Al Muqtadir",
+				"Arabic": "مقتدر",
+				"Value": "744",
+				"Type": "Jalali",
+				"Meaning": "The All Determiner, the Dominant"
+			},
+			{
+				"SNo": "72",
+				"English": "Al Muqaddim",
+				"Arabic": "مقدم",
+				"Value": "184",
+				"Type": "Mix",
+				"Meaning": "The Expediter, He who brings forward"
+			},
+			{
+				"SNo": "73",
+				"English": "Al Mu'akhkhir",
+				"Arabic": "مؤخر",
+				"Value": "846",
+				"Type": "Mix",
+				"Meaning": "The Delayer, He who brings backwards"
+			},
+			{
+				"SNo": "74",
+				"English": "Al Awwal",
+				"Arabic": "أول",
+				"Value": "37",
+				"Type": "Mix",
+				"Meaning": "The First"
+			},
+			{
+				"SNo": "75",
+				"English": "Al Aakhir",
+				"Arabic": "آخر",
+				"Value": "801",
+				"Type": "Mix",
+				"Meaning": "The Last"
+			},
+			{
+				"SNo": "76",
+				"English": "Az Dhaahir",
+				"Arabic": "ظاهر",
+				"Value": "1106",
+				"Type": "Mix",
+				"Meaning": "The Manifest; the All Victorious"
+			},
+			{
+				"SNo": "77",
+				"English": "Al Baatin",
+				"Arabic": "باطن",
+				"Value": "62",
+				"Type": "Mix",
+				"Meaning": "The Hidden; the All Encompassing"
+			},
+			{
+				"SNo": "78",
+				"English": "Al Waali",
+				"Arabic": "والي",
+				"Value": "47",
+				"Type": "Jamali",
+				"Meaning": "The Patron"
+			},
+			{
+				"SNo": "79",
+				"English": "Al Muta'ali",
+				"Arabic": "متعالي",
+				"Value": "541",
+				"Type": "Mix",
+				"Meaning": "The Self Exalted"
+			},
+			{
+				"SNo": "80",
+				"English": "Al Barr",
+				"Arabic": "بر",
+				"Value": "202",
+				"Type": "Jamali",
+				"Meaning": "The Most Kind and Righteous"
+			},
+			{
+				"SNo": "81",
+				"English": "At Tawwaab",
+				"Arabic": "تواب",
+				"Value": "409",
+				"Type": "Jamali",
+				"Meaning": "The Ever-Pardoning, Ever Relenting"
+			},
+			{
+				"SNo": "82",
+				"English": "Al Muntaqim",
+				"Arabic": "منتقم",
+				"Value": "630",
+				"Type": "Jalali",
+				"Meaning": "The Avenger"
+			},
+			{
+				"SNo": "83",
+				"English": "Al 'Afuww",
+				"Arabic": "عفو",
+				"Value": "156",
+				"Type": "Jamali",
+				"Meaning": "The Pardoner, The Forgiver"
+			},
+			{
+				"SNo": "84",
+				"English": "Ar Ra'uf",
+				"Arabic": "رؤوف",
+				"Value": "286",
+				"Type": "Jamali",
+				"Meaning": "The Clement, The Compassionate, The All-Pitying"
+			},
+			{
+				"SNo": "85",
+				"English": "Malik Al Mulk",
+				"Arabic": "مالك الملك",
+				"Value": "212",
+				"Type": "Jalali",
+				"Meaning": "The Owner of All Sovereignty"
+			},
+			{
+				"SNo": "86",
+				"English": "Dhual Jalal wa Al Ikram",
+				"Arabic": "ذو الجلال والإكرام",
+				"Value": "1100",
+				"Type": "Jalali",
+				"Meaning": "The Lord of Majesty and Generosity"
+			},
+			{
+				"SNo": "87",
+				"English": "Al Muqsit",
+				"Arabic": "مقسط",
+				"Value": "209",
+				"Type": "Jalali",
+				"Meaning": "The Equitable, the Requiter"
+			},
+			{
+				"SNo": "88",
+				"English": "Al Jaami'",
+				"Arabic": "جامع",
+				"Value": "114",
+				"Type": "Mix",
+				"Meaning": "The Gatherer, the Unifier"
+			},
+			{
+				"SNo": "89",
+				"English": "Al Ghani",
+				"Arabic": "غني",
+				"Value": "1060",
+				"Type": "Mix",
+				"Meaning": "The All Rich, the Independent"
+			},
+			{
+				"SNo": "90",
+				"English": "Al Mughni",
+				"Arabic": "مغني",
+				"Value": "1100",
+				"Type": "Jamali",
+				"Meaning": "The Enricher, the Emancipator"
+			},
+			{
+				"SNo": "91",
+				"English": "Al Mani'",
+				"Arabic": "مانع",
+				"Value": "161",
+				"Type": "Jalali",
+				"Meaning": "The Withholder, the Shielder, the Defender"
+			},
+			{
+				"SNo": "92",
+				"English": "Ad Dharr",
+				"Arabic": "ضآر",
+				"Value": "1001",
+				"Type": "Jamali",
+				"Meaning": "The Distresser"
+			},
+			{
+				"SNo": "93",
+				"English": "An Nafi'",
+				"Arabic": "نافع",
+				"Value": "201",
+				"Type": "Jamali",
+				"Meaning": "The Propitious, the Benefactor"
+			},
+			{
+				"SNo": "94",
+				"English": "An Nur",
+				"Arabic": "نور",
+				"Value": "256",
+				"Type": "Jamali",
+				"Meaning": "The Light"
+			},
+			{
+				"SNo": "95",
+				"English": "Al Hadi",
+				"Arabic": "هادي",
+				"Value": "20",
+				"Type": "Jamali",
+				"Meaning": "The Guide"
+			},
+			{
+				"SNo": "96",
+				"English": "Al Badi'i",
+				"Arabic": "بديع",
+				"Value": "86",
+				"Type": "Mix",
+				"Meaning": "Incomparable, the Originator"
+			},
+			{
+				"SNo": "97",
+				"English": "Al Baaqi",
+				"Arabic": "باقي",
+				"Value": "113",
+				"Type": "Jamali",
+				"Meaning": "The Ever Enduring and Immutable"
+			},
+			{
+				"SNo": "98",
+				"English": "Al Waarith",
+				"Arabic": "وارث",
+				"Value": "707",
+				"Type": "Jalali",
+				"Meaning": "The Heir, the Inheritor of All"
+			},
+			{
+				"SNo": "99",
+				"English": "Ar Rashid",
+				"Arabic": "رشيد",
+				"Value": "514",
+				"Type": "Jamali",
+				"Meaning": "The Guide, Infallible Teacher, and Knower"
+			},
+			{
+				"SNo": "100",
+				"English": "Al Saboor",
+				"Arabic": "صبور",
+				"Value": "298",
+				"Type": "Jamali",
+				"Meaning": "The Forbearing, The Patient"
+			},
+			{
+				"SNo": "101",
+				"English": "Al Dayyan",
+				"Arabic": "ديان",
+				"Value": "65",
+				"Type": "Mix",
+				"Meaning": "The one who recompenses"
+			},
+			{
+				"SNo": "102",
+				"English": "Al Badduh",
+				"Arabic": "بدوح",
+				"Value": "20",
+				"Type": "Mix",
+				"Meaning": "Al Badduh"
+			},
+			{
+				"SNo": "103",
+				"English": "Al Naeem",
+				"Arabic": "نعيم",
+				"Value": "170",
+				"Type": "Jamali",
+				"Meaning": "The one who blesses"
+			},
+			{
+				"SNo": "104",
+				"English": "Al Kafeel",
+				"Arabic": "كفيل",
+				"Value": "140",
+				"Type": "Jamali",
+				"Meaning": "The one who takes care of"
+			},
+			{
+				"SNo": "105",
+				"English": "Al Mo'uti",
+				"Arabic": "معطي",
+				"Value": "129",
+				"Type": "Jamali",
+				"Meaning": "The one who gives"
+			},
+			{
+				"SNo": "106",
+				"English": "Al Moughees",
+				"Arabic": "مغیث",
+				"Value": "1550",
+				"Type": "Jamali"
+			},
+			{
+				"SNo": "107",
+				"English": "Al Atoof",
+				"Arabic": "عطوف",
+				"Value": "165",
+				"Type": "Jamali"
+			},
+			{
+				"SNo": "108",
+				"English": "Al Arham Al Rahemeen",
+				"Arabic": "ارحم الراحمین ",
+				"Value": "619",
+				"Type": "Jamali"
+			},
+			{
+				"SNo": "109",
+				"English": "Al Ahkum al Hakemeen",
+				"Arabic": "أحكم الحاكمين",
+				"Value": "229",
+				"Type": "Jalali"
+			},
+			{
+				"SNo": "110",
+				"English": "Al Moula",
+				"Arabic": "مولٰی",
+				"Value": "86",
+				"Type": "Jamali"
+			},
+			{
+				"SNo": "111",
+				"English": "Al Hoo",
+				"Arabic": "ھو",
+				"Value": "11",
+				"Type": "Jalali"
+			},
+			{
+				"SNo": "112",
+				"English": "Al Naseer",
+				"Arabic": "نصیر",
+				"Value": "350",
+				"Type": "Jamali"
+			},
+			{
+				"SNo": "113",
+				"English": "Al Zur Rahmah",
+				"Arabic": "ذوالرحمہ",
+				"Value": "990",
+				"Type": "Jamali"
+			},
+			{
+				"SNo": "114",
+				"English": "Al Zit Taul",
+				"Arabic": "ذی الطول",
+				"Value": "786",
+				"Type": "Jamali"
+			}
+		],
+		"_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+	}
+}
